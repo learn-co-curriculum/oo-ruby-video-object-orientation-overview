@@ -7,7 +7,7 @@ This video gives a concise introduction to Object Orientation. There may be seve
 - Explain how objects are metaphors for real life concepts
 - Define a new class with the `class` keyword
 - Instantiate instances of the class with the class constructor `new`.
-- Add attributes to our instances with setter/getter methods and instance varibales
+- Add attributes to our instances with setter/getter methods and instance variables
 - Use the attr_accessor, attr_reader and attr_writer methods to dynamically create setter and getter methods
 - Keep track of all our class' instances with class variables and class methods
 - Hook into an object's instantiation with #initialize
