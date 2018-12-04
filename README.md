@@ -2,8 +2,6 @@
 
 This video gives a concise introduction to Object Orientation. There may be several concepts that you're unfamiliar with but the subsequent lessons will take a closer look at each of the topics covered and you'll have plenty of practice via labs. 
 
-Hello!!!
-
 ## Objectives
 
 - Explain how objects are metaphors for real life concepts
