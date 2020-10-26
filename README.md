@@ -17,4 +17,4 @@ This video gives a concise introduction to Object Orientation. There may be seve
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/Z_IoQCVNWtM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/oo-ruby-video-object-orientation-overview'>OO Ruby Video: Object Orientation Overview</a> on Learn.co and start learning to code for free.</p>
+
