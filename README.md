@@ -12,6 +12,6 @@ This video gives a concise introduction to Object Orientation. There may be seve
 - Keep track of all our class' instances with class variables and class methods
 - Hook into an object's instantiation with #initialize
 - Explain when to use implicit versus explicit receivers
-- Define a class find_by_name method to find specific instances
+- Define a class `find_by_name` method to find specific instances
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/Z_IoQCVNWtM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
