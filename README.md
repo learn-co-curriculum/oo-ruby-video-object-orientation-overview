@@ -1,4 +1,4 @@
-## Overview
+## Video: Object Orientation Overview
 
 This video gives a concise introduction to Object Orientation. There may be several concepts that you're unfamiliar with but the subsequent lessons will take a closer look at each of the topics covered and you'll have plenty of practice via labs. 
 
@@ -16,5 +16,3 @@ This video gives a concise introduction to Object Orientation. There may be seve
 
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/Z_IoQCVNWtM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-
